@@ -8,7 +8,7 @@ import "github.com/blue-army/go-gcloud/emulators"
 
 Go package for gcloud services.
 
-To install the packages on your system,
+To install the packages on your system:
 
 ```bash
 go get -u github.com/blue-army/go-gcloud
