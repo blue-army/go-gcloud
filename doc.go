@@ -1,5 +1,5 @@
-// Package gogcloud is a set of packages that allow working with the gcloud libraries
-package gogcloud
+// Package gcloud is a set of packages that allow working with the gcloud libraries
+package gcloud
 
 // blank imports help docs.
 import (
